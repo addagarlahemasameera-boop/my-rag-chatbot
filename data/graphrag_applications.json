@@ -1,0 +1,178 @@
+[
+  {
+    "arn": "101",
+    "name": "WebPortal",
+    "sub_application": "WebPortal_Service",
+    "category": "Toolset",
+    "business_vertical": "Compliance",
+    "status": "Active",
+    "tier": "Tier-3",
+    "business_criticality": "Medium",
+    "description": "WebPortal enterprise banking application"
+  },
+  {
+    "arn": "102",
+    "name": "Genie",
+    "sub_application": "Genie_Service",
+    "category": "Security",
+    "business_vertical": "Compliance",
+    "status": "Active",
+    "tier": "Tier-2",
+    "business_criticality": "Medium",
+    "description": "Genie enterprise banking application"
+  },
+  {
+    "arn": "103",
+    "name": "Karyx",
+    "sub_application": "Karyx_Service",
+    "category": "Security",
+    "business_vertical": "Payments",
+    "status": "Inactive",
+    "tier": "Tier-2",
+    "business_criticality": "Medium",
+    "description": "Karyx enterprise banking application"
+  },
+  {
+    "arn": "104",
+    "name": "API_Gateway",
+    "sub_application": "API_Gateway_Service",
+    "category": "Security",
+    "business_vertical": "Compliance",
+    "status": "Active",
+    "tier": "Tier-2",
+    "business_criticality": "High",
+    "description": "API_Gateway enterprise banking application"
+  },
+  {
+    "arn": "105",
+    "name": "IRIS",
+    "sub_application": "IRIS_Service",
+    "category": "Toolset",
+    "business_vertical": "Payments",
+    "status": "In Development",
+    "tier": "Tier-1",
+    "business_criticality": "Critical",
+    "description": "IRIS enterprise banking application"
+  },
+  {
+    "arn": "106",
+    "name": "RACE",
+    "sub_application": "RACE_Service",
+    "category": "Core Infra",
+    "business_vertical": "Retail Banking",
+    "status": "In Development",
+    "tier": "Tier-2",
+    "business_criticality": "Medium",
+    "description": "RACE enterprise banking application"
+  },
+  {
+    "arn": "107",
+    "name": "Finnone",
+    "sub_application": "Finnone_Service",
+    "category": "Core Infra",
+    "business_vertical": "Payments",
+    "status": "Inactive",
+    "tier": "Tier-2",
+    "business_criticality": "High",
+    "description": "Finnone enterprise banking application"
+  },
+  {
+    "arn": "108",
+    "name": "Payment_Hub",
+    "sub_application": "Payment_Hub_Service",
+    "category": "Core Infra",
+    "business_vertical": "Compliance",
+    "status": "In Development",
+    "tier": "Tier-1",
+    "business_criticality": "Critical",
+    "description": "Payment_Hub enterprise banking application"
+  },
+  {
+    "arn": "109",
+    "name": "Finacle",
+    "sub_application": "Finacle_Service",
+    "category": "Core Infra",
+    "business_vertical": "Compliance",
+    "status": "Active",
+    "tier": "Tier-1",
+    "business_criticality": "Critical",
+    "description": "Finacle enterprise banking application"
+  },
+  {
+    "arn": "110",
+    "name": "Fraud_Engine",
+    "sub_application": "Fraud_Engine_Service",
+    "category": "Security",
+    "business_vertical": "Payments",
+    "status": "Active",
+    "tier": "Tier-1",
+    "business_criticality": "High",
+    "description": "Fraud_Engine enterprise banking application"
+  },
+  {
+    "arn": "111",
+    "name": "FICO",
+    "sub_application": "FICO_Service",
+    "category": "Core Infra",
+    "business_vertical": "Corporate Banking",
+    "status": "Active",
+    "tier": "Tier-1",
+    "business_criticality": "High",
+    "description": "FICO enterprise banking application"
+  },
+  {
+    "arn": "112",
+    "name": "CRIF_HIGHMARK",
+    "sub_application": "CRIF_HIGHMARK_Service",
+    "category": "Security",
+    "business_vertical": "Corporate Banking",
+    "status": "In Development",
+    "tier": "Tier-3",
+    "business_criticality": "High",
+    "description": "CRIF_HIGHMARK enterprise banking application"
+  },
+  {
+    "arn": "113",
+    "name": "Karza",
+    "sub_application": "Karza_Service",
+    "category": "Toolset",
+    "business_vertical": "Compliance",
+    "status": "Inactive",
+    "tier": "Tier-3",
+    "business_criticality": "High",
+    "description": "Karza enterprise banking application"
+  },
+  {
+    "arn": "114",
+    "name": "Aadhaar_Vault",
+    "sub_application": "Aadhaar_Vault_Service",
+    "category": "Security",
+    "business_vertical": "Payments",
+    "status": "Active",
+    "tier": "Tier-3",
+    "business_criticality": "High",
+    "description": "Aadhaar_Vault enterprise banking application"
+  },
+  {
+    "arn": "115",
+    "name": "MDM",
+    "sub_application": "MDM_Service",
+    "category": "Security",
+    "business_vertical": "Payments",
+    "status": "Active",
+    "tier": "Tier-1",
+    "business_criticality": "Critical",
+    "description": "MDM enterprise banking application"
+  },
+  {
+    "arn": "116",
+    "name": "Adobe",
+    "sub_application": "Adobe_Service",
+    "category": "Toolset",
+    "business_vertical": "Retail Banking",
+    "status": "Active",
+    "tier": "Tier-3",
+    "business_criticality": "Low",
+    "description": "Adobe enterprise banking application"
+  }
+]
